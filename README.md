@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/nestordqa/calculatorapp)
+- Solution URL: (https://github.com/nestordqa/calculator)
 - Live Site URL: ()
 
 ## My process
